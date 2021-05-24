@@ -1,1 +1,1 @@
-Mdit Rhical hacking club web page
+MDIT Ethical hacking club web page
