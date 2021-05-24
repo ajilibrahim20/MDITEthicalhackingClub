@@ -174,7 +174,7 @@ a:focus {
         width: 100%;
         padding: 30px 60px;
         background: transparent !important;
-        border-bottom: 1px dashed rgba(256, 256, 256, .2);
+        border-bottom: 1px  rgba(256, 256, 256, .2);
         z-index: 9;
     }
 
